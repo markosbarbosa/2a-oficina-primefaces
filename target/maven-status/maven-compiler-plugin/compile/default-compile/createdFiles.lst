@@ -1,0 +1,9 @@
+com/algaworks/comercial/model/OrcamentoItem.class
+com/algaworks/comercial/util/Transacional.class
+com/algaworks/comercial/repository/OrcamentosRepository.class
+com/algaworks/comercial/model/Orcamento.class
+com/algaworks/comercial/controller/CadastroOrcamentoBean.class
+com/algaworks/comercial/util/TransacionalInterceptor.class
+com/algaworks/comercial/util/EntityManagerProducer.class
+com/algaworks/comercial/model/TipoItem.class
+com/algaworks/comercial/service/GestaoOrcamentos.class

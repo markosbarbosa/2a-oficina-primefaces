@@ -1,0 +1,9 @@
+/home/mbarbosa/workspace/2a-oficina-primefaces-master/src/main/java/com/algaworks/comercial/controller/CadastroOrcamentoBean.java
+/home/mbarbosa/workspace/2a-oficina-primefaces-master/src/main/java/com/algaworks/comercial/util/EntityManagerProducer.java
+/home/mbarbosa/workspace/2a-oficina-primefaces-master/src/main/java/com/algaworks/comercial/repository/OrcamentosRepository.java
+/home/mbarbosa/workspace/2a-oficina-primefaces-master/src/main/java/com/algaworks/comercial/util/TransacionalInterceptor.java
+/home/mbarbosa/workspace/2a-oficina-primefaces-master/src/main/java/com/algaworks/comercial/service/GestaoOrcamentos.java
+/home/mbarbosa/workspace/2a-oficina-primefaces-master/src/main/java/com/algaworks/comercial/util/Transacional.java
+/home/mbarbosa/workspace/2a-oficina-primefaces-master/src/main/java/com/algaworks/comercial/model/Orcamento.java
+/home/mbarbosa/workspace/2a-oficina-primefaces-master/src/main/java/com/algaworks/comercial/model/OrcamentoItem.java
+/home/mbarbosa/workspace/2a-oficina-primefaces-master/src/main/java/com/algaworks/comercial/model/TipoItem.java
